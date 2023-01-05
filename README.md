@@ -1,4 +1,5 @@
-#POS資料 
+
+# POS速食資料 (練手的小項目) 
 
 初始網址 https://yes66395.github.io/testjson/
 速食資料
