@@ -1,0 +1,70 @@
+{
+	"hamburger": [
+		{
+			"id": 1,
+			"name": "大麥克",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/big-mac_832x822_2:1-4-product-tile-desktop",
+			"price": 99
+		},
+		{
+			"id": 2,
+			"name": "雙層牛肉吉事堡",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/double-cheese-burger_832x822:1-4-product-tile-desktop",
+			"price": 69
+		},
+		{
+			"id": 3,
+			"name": "嫩煎鷄腿堡",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/grilled-bbq-chicken-burger_832x822:1-4-product-tile-desktop",
+			"price": 59
+		},
+		{
+			"id": 4,
+			"name": "麥香鷄",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/mcchicken_832x822:1-4-product-tile-desktop",
+			"price": 49
+		},
+		{
+			"id": 5,
+			"name": "勁辣鷄腿堡",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/spicy-chicken-filet-burger_832x822:1-4-product-tile-desktop",
+			"price": 60
+		}
+	],
+	"snack": [
+		{
+			"id": 6,
+			"name": "麥克鷄塊(6塊)",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/chicken-mcnuggets-6-pieces_832x822:1-4-product-tile-desktop",
+			"price": 72
+		},
+		{
+			"id": 7,
+			"name": "麥克鷄塊(10塊)",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/chicken-mcnuggets-10-pieces_832x822:1-4-product-tile-desktop",
+			"price": 102
+		}
+	],
+	"combo": [
+		{
+			"id": 8,
+			"name": "酥嫩鷄翅分享盒",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/tender-chicken-wing-sharing-box_832x822:1-4-product-tile-desktop",
+			"price": 158
+		}
+	],
+	"drink": [
+		{
+			"id": 9,
+			"name": "可口可樂zero",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/coke-zero_832x822:1-4-product-tile-desktop",
+			"price": 49
+		},
+		{
+			"id": 10,
+			"name": "雪碧",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/sprite_832x822:1-4-product-tile-desktop",
+			"price": 49
+		}
+	]
+}
