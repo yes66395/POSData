@@ -13,7 +13,7 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 
 <br/>
 完成畫面(沒有RWD)
-![ POS完成畫面](https://github.com/yes66395/testjson/blob/main/Untitled.png?raw=true)
+![POS完成畫面]("https://github.com/yes66395/testjson/blob/main/Untitled.png?raw=true")
 
 <br/>
 你可以學到的知識點
