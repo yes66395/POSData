@@ -1,11 +1,11 @@
 # 速食店POS機點餐demo
 底下是POS速食資料 (練手的小項目) 
 
-初始網址 https://yes66395.github.io/testjson/
+初始網址 https://yes66395.github.io/POSdemo/
 <br/>
 速食資料
-一般商品:https://yes66395.github.io/testjson/commonfood.json  <br/>
-分類商品 :https://yes66395.github.io/testjson/sortfood.json
+一般商品:https://yes66395.github.io/POSdemo/commonfood.json  <br/>
+分類商品 :https://yes66395.github.io/POSdemo/sortfood.json
 
 用到的技術
 <br/>
