@@ -17,6 +17,7 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 
 <br/>
 你可以學到的知識點
+
 <br/>
 
 1. v-for雙重嵌套 以及v-for一層嵌套
