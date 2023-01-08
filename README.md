@@ -1,6 +1,10 @@
 # 速食店POS機點餐demo
+注意這不是真的POS機點餐的介面
+<br/>
+
 底下是POS速食資料 (練手的小項目) 
 <br/>
+<hr/>
 特別適合從原生JS->轉換Vue的新手
 <br/>
 初始網址 https://yes66395.github.io/POSdemo/
