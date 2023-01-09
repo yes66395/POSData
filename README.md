@@ -1,5 +1,7 @@
 # 速食店POS機點餐demo
 注意這不是真的POS機點餐的介面
+<br/>來源: <a href="https://www.bilibili.com/video/BV1Zb411T775/?spm_id_from=333.999.0.0">這個</a>
+
 <br/>
 
 底下是POS速食資料 (練手的小項目) 
