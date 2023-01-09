@@ -30,11 +30,11 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 
 1. v-for雙重嵌套 以及v-for一層嵌套
 2. axios的使用(可以試著進行二次封裝)
-3. Element-plus在vite.config.js的配置使用
-4. Vue-Router的基礎使用(配置)
-5. created，生命週期函數，資料直接出現
+3. Element-plus在vite.config.js的配置使用。
+4. Vue-Router的基礎使用(配置)。
+5. created，生命週期函數，資料直接出現。
 6. 從原生JavaScript ->不操作DOM->只操作資料，驅動畫面，這邊需要一點時間適應
-7. 利用computed自動計算
+7. 利用computed自動計算。
 8. 學會簡單使用Component。
 
 <br/>
