@@ -3,11 +3,11 @@
 
 <br/>
 <br/>
-初始網址 https://yes66395.github.io/POSdemo/
+初始網址 https://yes66395.github.io/POSData/
 <br/>
 速食資料
-一般商品:https://yes66395.github.io/POSdemo/commonfood.json  <br/>
-分類商品 :https://yes66395.github.io/POSdemo/sortfood.json
+一般商品:https://yes66395.github.io/POSData/commonfood.json  <br/>
+分類商品 :https://yes66395.github.io/POSData/sortfood.json
 
 
 
